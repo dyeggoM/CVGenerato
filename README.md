@@ -1,2 +1,2 @@
-# CVGenerato
+# CVGenerator
 This project allows easy changes on cv information and allows to copy to clipboard.
